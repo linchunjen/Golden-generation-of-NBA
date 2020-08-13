@@ -1,6 +1,10 @@
 # Golden-generation-of-NBA
 Discover greatest NBA generation through data visualization
 
+#### Project Team: Curtis Lin, James Wall, and Satya Thiruvallur
+
+----
+
 ### Programming Language and Packages
 - HTML/CSS/JS
 - Tableau
